@@ -1,0 +1,41 @@
+* {
+  background-color: #000000;
+}
+
+.container {
+  width: 80%;
+  margin: 80px auto;
+  text-align: center;
+}
+.input-box {
+  width: 30px;
+  height: 30px;
+  margin: 3px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 30px;
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.keyboard {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #afb0b0;
+  width: 30px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 8px;
+}
